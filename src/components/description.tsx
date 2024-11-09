@@ -28,6 +28,16 @@ export const Description: React.FC = () => {
           cluster high-value tiles.
         </li>
       </ul>
+      <p>
+        Made by{" "}
+        <a
+          href="https://github.com/abdualrhman"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          @abdualrhman
+        </a>
+      </p>
     </div>
   );
 };
